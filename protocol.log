@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.9.29)  6 NOV 2010 11:15
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.9.29)  6 NOV 2010 16:25
 entering extended mode
  %&-line parsing enabled.
 **protocol.tex
@@ -67,6 +67,50 @@ File: uni-global.def 2004/10/17 UCS: Unicode global data
 \Urlmuskip=\muskip10
 Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
 )
+(/usr/share/texmf/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2007/02/07 v6.75r Hypertext links for LaTeX
+\@linkdim=\dimen107
+\Hy@linkcounter=\count91
+\Hy@pagecounter=\count92
+
+(/usr/share/texmf/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2007/02/07 v6.75r Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf/tex/latex/config/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2006/08/22 v2.4 Connects package keyval with LaTeX options (
+HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 2288.
+Package hyperref Info: Link nesting OFF on input line 2293.
+Package hyperref Info: Hyper index ON on input line 2296.
+Package hyperref Info: Plain pages OFF on input line 2303.
+Package hyperref Info: Backreferencing OFF on input line 2308.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 2444.
+LaTeX Info: Redefining \url on input line 2599.
+\Fld@menulength=\count93
+\Field@Width=\dimen108
+\Fld@charsize=\dimen109
+\Choice@toks=\toks21
+\Field@toks=\toks22
+Package hyperref Info: Hyper figures OFF on input line 3102.
+Package hyperref Info: Link nesting OFF on input line 3107.
+Package hyperref Info: Hyper index ON on input line 3110.
+Package hyperref Info: backreferencing OFF on input line 3117.
+Package hyperref Info: Link coloring OFF on input line 3122.
+\Hy@abspage=\count94
+\c@Item=\count95
+\c@Hfootnote=\count96
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2007/02/07 v6.75r Hyperref driver for pdfTeX
+\Fld@listcount=\count97
+)
 
 LaTeX Warning: Unused global option(s):
     [left=1.5cm,right=1.5cm,top=1.5cm,bottom=1.5cm].
@@ -74,18 +118,20 @@ LaTeX Warning: Unused global option(s):
 (./protocol.aux)
 \openout1 = `protocol.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
 -------------------- Geometry parameters
 paper: a4paper
 landscape: --
@@ -128,17 +174,33 @@ driver: pdftex
  (/usr/share/texmf/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2003/11/29 Fixes to fontencodings LGR, T3
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 19.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 19.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 19.
+Package hyperref Info: Link coloring OFF on input line 18.
 
-(/usr/share/texmf/tex/latex/ucs/data/uni-0.def
+(/usr/share/texmf/tex/latex/hyperref/nameref.sty
+Package: nameref 2006/12/27 v2.28 Cross-referencing by name of section
+
+(/usr/share/texmf/tex/latex/oberdiek/refcount.sty
+Package: refcount 2006/02/20 v3.0 Data extraction from references (HO)
+)
+\c@section@level=\count98
+)
+LaTeX Info: Redefining \ref on input line 18.
+LaTeX Info: Redefining \pageref on input line 18.
+ (./protocol.out)
+(./protocol.out)
+\@outlinefile=\write3
+\openout3 = `protocol.out'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 21.
+ (/usr/share/texmf/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
 )
-Overfull \hbox (1.31824pt too wide) in paragraph at lines 31--35
+Overfull \hbox (1.31824pt too wide) in paragraph at lines 32--36
 \OT1/cmr/m/n/10 HP hat als In-fras-truk-tu-ran-bi-eter die Chance durch SAP den
  Trend zur zen-tral-isierten IT-Landschaft
  []
@@ -147,50 +209,50 @@ Overfull \hbox (1.31824pt too wide) in paragraph at lines 31--35
 
 {/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 123.
+(Font)              <7> on input line 129.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 123.
+(Font)              <5> on input line 129.
 
-Underfull \hbox (badness 1033) in paragraph at lines 127--130
-[] \OT1/cmr/m/n/10 Or-a-cle/Sun: Fol-gen-schw-er-ste []Ubernahme der IT  $\OT1/
-cmtt/m/n/10 http : / / www . silicon . de / cio / b2b /
+Underfull \hbox (badness 1033) in paragraph at lines 133--136
+[] \OT1/cmr/m/n/10 Or-a-cle/Sun: Fol-gen-schw-er-ste []Ubernahme der IT  []$\OT
+1/cmtt/m/n/10 http : / / www . silicon . de / cio / b2b /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--130
+Underfull \hbox (badness 10000) in paragraph at lines 133--136
 \OT1/cmtt/m/n/10 0 ,[] 39038988 ,[] 41003134-[]3 ,[] 00 / oracle _ sun _ folgen
-schwerste _ uebernahme _ der _ it . htm$
+schwerste _ uebernahme _ der _ it . htm$[]
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 137--140
-[] \OT1/cmr/m/n/10 ERP Mar-ket Share And Eval-u-a-tion 2010  $\OT1/cmtt/m/n/10 
-http : / / whatiserp . net / erp-[]comparison /
+Underfull \hbox (badness 1102) in paragraph at lines 143--146
+[] \OT1/cmr/m/n/10 ERP Mar-ket Share And Eval-u-a-tion 2010  []$\OT1/cmtt/m/n/1
+0 http : / / whatiserp . net / erp-[]comparison /
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 177--180
-[] \OT1/cmr/m/n/10 SAP Busi-ness By De-sign  $\OT1/cmtt/m/n/10 http : / / www .
- sap . com / germany / sme / solutions /
+Underfull \hbox (badness 10000) in paragraph at lines 183--186
+[] \OT1/cmr/m/n/10 SAP Busi-ness By De-sign  []$\OT1/cmtt/m/n/10 http : / / www
+ . sap . com / germany / sme / solutions /
  []
 
 [3] (./protocol.aux) ) 
 Here is how much of TeX's memory you used:
- 1436 strings out of 256216
- 18632 string characters out of 1917072
- 77757 words of memory out of 1500000
- 4762 multiletter control sequences out of 10000+200000
+ 3257 strings out of 256216
+ 45300 string characters out of 1917072
+ 107111 words of memory out of 1500000
+ 6528 multiletter control sequences out of 10000+200000
  8063 words of font info for 29 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 23i,6n,21p,457b,527s stack positions out of 5000i,500n,6000p,200000b,15000s
+ 25i,6n,27p,457b,527s stack positions out of 5000i,500n,6000p,200000b,15000s
 </usr/share/texmf/fonts/type1/bluesky/cm/cmbx10.pfb></usr
 /share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf/fonts/type1/bl
 uesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr12.pfb></usr/sha
 re/texmf/fonts/type1/bluesky/cm/cmr17.pfb></usr/share/texmf/fonts/type1/bluesky
 /cm/cmtt10.pfb>
-Output written on protocol.pdf (3 pages, 65366 bytes).
+Output written on protocol.pdf (3 pages, 78586 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 131072)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 114 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 131072)
+ 17 words of extra memory for PDF output out of 10000 (max. 10000000)
 
